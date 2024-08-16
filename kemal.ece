@@ -1,0 +1,32 @@
+<standart.kütüphane> #ekle
+
+tam sayı türünde
+	(tanımsız) ana işlemi başlat
+{
+	tam sayı türünde	deneme;
+
+	deneme = (tam sayı türünde)31;
+
+	("BU KOD PARÇASI ECE DİLİ İLE YAZILDI\n") yazdır;
+	eğer (deneme == 31) ise
+	{
+		("Kardeş ayıp oluyor.\n") yazdır;
+	}
+	eğer değilse ve (deneme == 28) ise
+	{
+		("Kardeş çok sapıksın mk\n") yazdır;
+	}
+	değilse
+	{
+		("Helal olsun abdestli cocuksun\n") yazdır;
+	}
+	%
+	printf("THIS CODE PIECE IS WRITTEN IN CPP\n");
+	int	count;
+
+	count = 0;
+	if (count == 0)
+		printf("This programing language is cpp\n");
+	%
+	(0) işlemini döndür;
+}
